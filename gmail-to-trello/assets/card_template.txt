@@ -1,0 +1,11 @@
+Teléfono: #PHONE#
+
+Correo: #EMAIL#
+
+No. Personas: #NUMBER_PEOPLE#
+
+Fecha de entrada: #CHECK_IN#
+
+Fecha de salida: #CHECK_OUT#
+
+Consulta: #INQUIRY#
