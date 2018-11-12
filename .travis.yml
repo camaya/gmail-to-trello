@@ -1,0 +1,10 @@
+language: python
+python:
+  - "3.6"
+
+branches:
+  only:
+    - travis-tests
+
+install:
+  - pip install -r requirements.txt
